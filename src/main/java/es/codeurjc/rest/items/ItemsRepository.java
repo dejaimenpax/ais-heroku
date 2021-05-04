@@ -18,7 +18,7 @@ public class ItemsRepository {
         // Create some items
 
 		Item item1 = new Item();
-		item1.setDescription("Leche");
+		item1.setDescription("Leche de soja");
 		item1.setChecked(true);
         this.postItem(item1);
         
