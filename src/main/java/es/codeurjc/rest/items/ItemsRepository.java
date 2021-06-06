@@ -31,6 +31,11 @@ public class ItemsRepository {
 		item3.setDescription("Time : "+LocalTime.now());
 		item3.setChecked(false);
 		this.postItem(item3);
+
+        Item item4= new Item();
+		item3.setDescription("Comida Venezolana");
+		item3.setChecked(false);
+		this.postItem(item4);
     }
     
     public Collection<Item> getAllItems(){
