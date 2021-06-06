@@ -27,7 +27,7 @@ Es necesario sustituir `<HEROKU_APP>` por un nombre ÚNICO
     heroku create <HEROKU_APP>
 ```
 
-###  PASO 4: Renombramos la imagen
+###  PASO 4: Renombramos la imagen 
 
 Es necesario que el `tag` de la imagen siga este formato
 
